@@ -61,8 +61,4 @@ I enjoy solving problems, exploring new technologies, and experimenting with dif
 
 ---
 
-### 🙌 Let's Connect
-
-- 🌐 [Website – optional if you want to add it later]
-- 📧 Feel free to reach out or just check out my work!
 
