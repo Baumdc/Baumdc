@@ -56,7 +56,7 @@ I enjoy solving problems, exploring new technologies, and experimenting with dif
 
 ### ✨ Fun Fact
 
-> I code when I *want* to – not when I *have* to.  
+> I code when I *want* to, not when I *have* to.  
 > I believe curiosity, not pressure, is the best teacher.
 
 ---
