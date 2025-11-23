@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Hey! I'm **Baum**, a self-driven beginner and student who codes when inspiration strikes.  
 I enjoy solving problems, exploring new technologies, and experimenting with different ideas.
@@ -20,7 +20,7 @@ I enjoy solving problems, exploring new technologies, and experimenting with dif
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -34,7 +34,7 @@ I enjoy solving problems, exploring new technologies, and experimenting with dif
 
 ---
 
-### 🔍 Current Goals
+### Current Goals
 
 - Learn and grow through real-world projects  
 - Explore more about AI-assisted coding and automation  
@@ -44,7 +44,7 @@ I enjoy solving problems, exploring new technologies, and experimenting with dif
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Baumdc&show_icons=true&theme=tokyonight" />
@@ -54,11 +54,5 @@ I enjoy solving problems, exploring new technologies, and experimenting with dif
 
 ---
 
-### ✨ Fun Fact
-
-> I code when I *want* to, not when I *have* to.  
-> I believe curiosity, not pressure, is the best teacher.
-
----
 
 
